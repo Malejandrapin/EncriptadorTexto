@@ -22,7 +22,7 @@ Las "llaves" de encriptación que utilizaremos son las siguientes:
 
 **Visualización**
 
-<img src="https://github.com/alejandraunad/EncriptadorTexto/blob/main/imagenes/index.PNG?raw=true" alt="inicio" width="500" />
+<img src="https://github.com/Malejandrapin/EncriptadorTexto/blob/main/imagenes/index.PNG?raw=true" alt="inicio" width="500" />
 
 ---
 
